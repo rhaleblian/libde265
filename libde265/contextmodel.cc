@@ -19,6 +19,7 @@
  */
 
 #include "slice.h"
+#include "stdint.h"
 #include <assert.h>
 #include <iomanip>
 #include <sstream>
