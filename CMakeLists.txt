@@ -64,5 +64,5 @@ if(MSVC)
 endif()
 
 add_subdirectory (libde265)
-add_subdirectory (dec265)
-add_subdirectory (enc265)
+# add_subdirectory (dec265)
+# add_subdirectory (enc265)
